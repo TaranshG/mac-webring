@@ -141,6 +141,9 @@ In no particular order:
 This webring was built and is currently maintained by me (Anita).
 
 If something here is broken, incorrect, missing, or otherwise behaving in a way that feels unintended, please reach out.
+
 Opening an issue is fine.
+
 Opening a pull request is better.
+
 Either will be seen.
