@@ -6,7 +6,7 @@ Visit the site [here](https://www.macwebring.xyz/).
 
 If you are unfamiliar with how webrings work, or why someone would build one in the year that it currently is, [here](https://brisray.com/web/webring-tech.htm) is an excellent overview.
 
-## How to add your site
+### How to add your site
 
 If you are a McMaster CS student, alumnus, or otherwise reasonably affiliated, you may add your site.
 
@@ -33,7 +33,7 @@ The review consists primarily of confirming that:
 
 ---
 
-## Widget template
+### Widget template
 
 Because every website is different, there is no required way to display the webring navigation.
 
@@ -41,7 +41,7 @@ You are encouraged to style it however you like.
 
 That said, if you would prefer to start from something that already works, the following examples are provided as a baseline.
 
-### HTML
+#### HTML
 
 ```html
 <div style="display: flex; align-items: center; gap: 8px;">
@@ -59,7 +59,7 @@ That said, if you would prefer to start from something that already works, the f
 </div>
 ````
 
-### JSX / React
+#### JSX / React
 
 ```jsx
 <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
@@ -77,7 +77,7 @@ That said, if you would prefer to start from something that already works, the f
 </div>
 ```
 
-### Notes
+#### Notes
 
 * For dark-themed websites, consider using `icon.white.svg`.
 * You may host the icon locally if that better suits your setup.
@@ -88,7 +88,7 @@ There is no requirement to use this layout, these icons, or even an image at all
 
 ---
 
-## Icons
+### Icons
 
 A small set of webring icons are available:
 
@@ -103,7 +103,7 @@ If you dislike all of them, editing the SVGs directly is encouraged.
 
 ---
 
-## Requirements for inclusion
+### Requirements for inclusion
 
 Your site should:
 
@@ -119,7 +119,7 @@ It does **not** need to be:
 
 ---
 
-## Credits and Inspiration
+### Credits and Inspiration
 
 This project did not appear in a vacuum.
 
