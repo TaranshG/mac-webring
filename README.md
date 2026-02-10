@@ -6,6 +6,8 @@ Visit the site [here](https://www.macwebring.xyz/).
 
 If you are unfamiliar with how webrings work, or why someone would build one in the year that it currently is, [here](https://brisray.com/web/webring-tech.htm) is an excellent overview.
 
+---
+
 ### How to add your site
 
 If you are a McMaster CS student, alumnus, or otherwise reasonably affiliated, you may add your site.
