@@ -33,20 +33,6 @@ The review consists primarily of confirming that:
 
 ---
 
-Yes — *exactly* like that. This is the right direction.
-What you want is a **“Widget / Badge Template”** section that:
-
-* gives people something copy-pasteable
-* explicitly encourages modification
-* does **not** pretend this is the One True Way™
-* matches the rest of your README’s calm, slightly weary tone
-
-Below is a **rewritten version**, adapted for **macwebring.xyz**, cleaned up, and stylistically consistent with everything you’ve been doing.
-
-You can drop this straight into the README.
-
----
-
 ## Widget template
 
 Because every website is different, there is no required way to display the webring navigation.
@@ -141,14 +127,14 @@ It is heavily inspired by a number of existing webrings and directories, particu
 
 In no particular order:
 
-- https://sydeb.me  
-- https://cs.uwatering.com  
-- https://se-webring.xyz  
-- https://firechicken.club/  
-- https://hotlinewebring.club/  
-- https://a11y-webring.club/  
-- https://cs.sjoy.lol/#webring  
-- https://fediring.net/  
+- [https://sydeb.me](https://sydeb.me)  
+- [https://cs.uwatering.com](https://cs.uwatering.com)
+- [https://se-webring.xyz](https://se-webring.xyz)
+- [https://firechicken.club/](https://firechicken.club/)
+- [https://hotlinewebring.club/](https://hotlinewebring.club/)
+- [https://a11y-webring.club/](https://a11y-webring.club/)
+- [https://cs.sjoy.lol/#webring](https://cs.sjoy.lol/#webring)
+- [https://fediring.net/](https://fediring.net/)
 
 This webring was built and is currently maintained by me (Anita).
 
