@@ -15,7 +15,7 @@ If you are a McMaster CS student, alumnus, or otherwise reasonably affiliated, y
 This is done by opening a **pull request**.
 
 1. Fork the repository
-2. Add your site to the data file (see `js/data.js`) at the **bottom**.
+2. Add your site to the data file (see `js/data.js`) at the **bottom** of the list.
    Follow this format:
 ```javascript
 {
